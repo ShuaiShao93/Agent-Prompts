@@ -7,4 +7,5 @@
 - Whenever you find AGENTS.md or CLAUDE.md or any skill is outdated or inaccurate, propose to update it
 - Whenever you find it take too long to finish a task and you need to do lots of search/experiment to find the solution, propose to make it a skill
 - Avoid too many details specific to a particular version or a particular environment in AGENTS.md or CLAUDE.md or skills
+- When you are stuck for long enough, search on github/internet and see what others do
 - Do not arbitrarily clean up the commented out code.
