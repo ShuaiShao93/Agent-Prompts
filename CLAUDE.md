@@ -4,6 +4,7 @@
 - Whenever you work on another repo, follow the AGENTS.md or CLAUDE.md in that repo, and always confirm your branch is based on clean origin main branch.
 - Feel free to install whatever library/binary you think is useful in the OS, but confirm first
 - After a PR is opened, monitor GHA workflows to confirm the checks are passed, and also address reviews from bots
+- When asked to resolve conflict, make sure you rebase on origin/main and no stray changes are left in your branch
 - When updating AGENTS.md or CLAUDE.md file, make sure each bullet is as short as possible.
 - Whenever you find AGENTS.md or CLAUDE.md or any skill is outdated or inaccurate, propose to update it
 - Whenever you find it take too long to finish a task and you need to do lots of search/experiment to find the solution, propose to make it a skill
